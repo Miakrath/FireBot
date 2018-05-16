@@ -1,1 +1,1 @@
-# FireBot
+Ici tu trouvera l'avancement et tout les fichiers qui composent le bot, le fichier ou j'écris en très grande partie est index.js  J'ai du séparer les fichiers qui concerne la partie Node.Js elle est trop volumineuse pour GitHub qui ne tolere pas le transfere de plus de 100 fichiers en même temps. Je les mets sur le Ftp si tu veux bien m'y donner acces 
