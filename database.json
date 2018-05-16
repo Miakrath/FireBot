@@ -1,0 +1,59 @@
+{
+  "combats": [
+    {
+      "id": "1",
+      "story_value": "blablalba1",
+      "story_author": "<@262515313487118337>"
+    },
+    {
+      "id": 1,
+      "story_value": "blabla",
+      "story_author": "<@262515313487118337>"
+    },
+    {
+      "id": 1,
+      "story_value": "blabla",
+      "story_author": "<@262515313487118337>"
+    },
+    {
+      "id": 2,
+      "story_value": "blabla",
+      "story_author": "<@262515313487118337>"
+    },
+    {
+      "id": 2,
+      "story_value": "blabla",
+      "story_author": "<@262515313487118337>"
+    },
+    {
+      "id": "1,1,1,2,211",
+      "story_value": "blabla",
+      "story_author": "<@262515313487118337>"
+    },
+    {
+      "id": "1,1,1,2,2,1,1,1,2,21111",
+      "story_value": "blabla",
+      "story_author": "<@262515313487118337>"
+    },
+    {
+      "id": ",,,,,,11",
+      "story_value": "blabla",
+      "story_author": "<@262515313487118337>"
+    },
+    {
+      "id": ",,,,,,,11",
+      "story_value": "blabla",
+      "story_author": "<@262515313487118337>"
+    },
+    {
+      "id": 2,
+      "story_value": "blabla",
+      "story_author": "<@262515313487118337>"
+    },
+    {
+      "id": 2,
+      "story_value": "blabla",
+      "story_author": "<@262515313487118337>"
+    }
+  ]
+}
